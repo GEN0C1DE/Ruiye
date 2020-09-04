@@ -2,9 +2,9 @@
   "name": "project-ruiye",
   "version": "0.0.1",
   "description": "Ruiye, a Discord account nuker, token verifier, and much more to be compressed and ran on a users computer.",
-  "main": "Window.js",
+  "main": "Runner.js",
   "scripts": {
-    "start": "node Window.js"
+    "start": "node Runner.js"
   },
   "dependencies": {
     "chalk": "^4.1.0",
