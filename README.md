@@ -6,10 +6,11 @@ Discord: ✟ Genoᵢₙₑ / 66Scream#0600 < Changes like every few days, or wee
 https://discord.gg/YmWEM8s
 
 # How to Use
-- 1. Requirements: Install Node.js.
-- Run the Install.bat file after downloading Node.js.
-- 2. Run node Runner.js after changing the directory to the folder where the files are located.
-- 3. The rest is in your hands.
+1. Requirements: Install Node.js.
+Run the Install.bat file after downloading Node.js.
+
+2. Run node Runner.js after changing the directory to the folder where the files are located.
+3. The rest is in your hands.
 
 # Features
 - Account Nuker
