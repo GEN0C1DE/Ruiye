@@ -8,7 +8,7 @@ https://discord.gg/YmWEM8s
 # How to Use
 Requirements: Install Node.js.
 1. Run the Install.bat file after downloading Node.js.
-2. Run node Runner.js after changing the directory to the folder where the files are located.
+2. Run Run.bat to start the program.
 3. The rest is in your hands.
 
 # Features
