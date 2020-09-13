@@ -1,6 +1,6 @@
 # Project Ruiye
 - A Discord Account Nuker, Account Information Grabber, and Account Disabler.
-- Discord: ✟ Genoᵢₙₑ / 66Scream#0600 < Changes like every few days, or weeks.
+- Discord: 01DREAMᵢₙₑ < Changes like every few days, or weeks.
 
 - If you have any questions, join my server:
 https://discord.gg/YmWEM8s
