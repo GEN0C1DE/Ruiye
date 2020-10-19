@@ -1,6 +1,6 @@
 # Project Ruiye
 - A Discord Account Nuker, Account Information Grabber, and Account Disabler.
-- Discord: GEN0C1DE#0862 < Changes like every few days, or weeks.
+- Discord: GEN0C1DE#0896 < Changes like every few days, or weeks.
 
 - If you have any questions, join my server:
 https://discord.gg/YmWEM8s
